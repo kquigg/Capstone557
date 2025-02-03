@@ -44,6 +44,21 @@ the attribute thresholds identified by decision tree splits to suggest actionabl
 shift these cities closer to the next walkability index group.Visualization may be particularly
 useful with this step.
 
+## Technical Information:
+* Programming Languages: Python
+
+* Libraries Used:
+
+    * Data Processing: pandas, NumPy
+
+    * Feature Engineering: PCA (scikit-learn)
+
+    * Machine Learning Models: scikit-learn (Random Forest, Decision Trees, SVM), TensorFlow/Keras (Neural  Networks), XGBoost
+
+    * Hyperparameter Tuning: GridSearchCV
+
+    * Visualization: Matplotlib, Seaborn
+
 ## Possible outcomes and Implications:
 
 Possible outcomes for our project are highly variable and highly dependent on our initial
