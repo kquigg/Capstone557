@@ -77,3 +77,4 @@ walkability trends across diverse urban environments. As most features in this d
 demographical data, the resulting trends may show that solutions extend beyond simple
 infrastructure fixes that policy makers could implement and instead delve into an examination of
 broader social and economic implications of walkability.
+# Capstone557
