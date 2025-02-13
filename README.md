@@ -1,5 +1,5 @@
 # Predicting Urban Walkability: Identifying Key Factors and Opportunities for Improvement
-Ryan Soucy, Randy Sprouse, Kaia Quigg
+Ryan Soucy, Kaia Quigg
 
 
 ## Research Goals:
